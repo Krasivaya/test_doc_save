@@ -1,4 +1,4 @@
-# SAVE 💻📱📟
+# SAVE
 
 Save is a digital platform that financially empowers saving groups.
 
@@ -7,36 +7,68 @@ Save is a digital platform that financially empowers saving groups.
 - [Features](#features-rocket)
 - [API Endpoints](#api-endpoints-droplet)
 - [Technologies Used](#technologies-used-gear)
+- [Accessibility](#accessibility-globe_with_meridians)
 - [Bugs](#bugs-bug)
 - [Contributors](#contributors-two_men_holding_hands)
 
 # Features :rocket:
 
-1. [x] User can sign up.
-2. [x] User can sign in.
+### User:
+
+1. [x] User can create an acoount.
+2. [x] User can sign in the account.
+3. [x] User can make savings
+4. [x] User can view savings balance
+5. [x] User can make loans
+6. [x] User can view loan balance
+7. [x] User can make a group
+8. [x] User can invite others to join group
+9. [x] User can make a project
+10. [x] User can become an agent
+11. [x] User can create an organisation
 
 # API Endpoints :droplet:
 
 ### Auth
 
-| Endpoint                     | Method |
-| ---------------------------- | ------ |
-| /auth/login                  | POST   |
-| /auth/logout                 | POST   |
-| /auth/signup                 | POST   |
-| /auth/change_password        | POST   |
-| /auth/reset_password         | POST   |
-<!-- | /auth/signup/send_short_code | POST   |
+| Endpoint              | Method | Description                      |
+| --------------------- | ------ | -------------------------------- |
+| /auth/signup          | POST   | User can create an account       |
+| /auth/login           | POST   | User can sign in the account     |
+| /auth/logout          | POST   | User can sign out of the account |
+| /auth/change_password | POST   | User can change the password     |
+
+<!--
+| /auth/signup/send_short_code | POST   |
 | /auth/reset_password/token   | POST   |
 | /auth/ssa/reset_password     | POST   |
 | /auth/sa/reset_password      | POST   |
-| /auth/refresh_token          | POST   | -->
+| /auth/refresh_token          | POST   |
+-->
+
+### User
+
+| Endpoint    | Method | Description                            |
+| ----------- | ------ | -------------------------------------- |
+| /users      | POST   | User can be/create a group admin       |
+| /users      | GET    | User can retrieve group admins         |
+| /users/{id} | GET    | User can retrieve a single group admin |
+| /users/{id} | PUT    | User can update group admin            |
+| /users/{id} | DELETE | User can delete a group admin          |
 
 # Technologies Used :gear:
 
 - Nodejs / Express
 - Express
 - Postgres Boiterplate
+
+# Accessibility :globe_with_meridians:
+
+| Nº  | Components                | Avatar |
+| --- | ------------------------- | ------ |
+| 1   | Mobile App(Android / IOS) | 📱     |
+| 2   | Mobile USSD               | 📟     |
+| 3   | Web App                   | 💻     |
 
 # Bugs :bug:
 
