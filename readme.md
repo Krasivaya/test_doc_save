@@ -12,7 +12,9 @@ Save is a digital platform that financially empowers saving groups.
 
 # Features :rocket:
 
-1. [x] User/Group can sign up.
+### Web Features
+
+[x] User/Group can sign in.
 
 # API Endpoints :droplet:
 
