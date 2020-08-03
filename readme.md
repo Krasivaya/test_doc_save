@@ -24,12 +24,12 @@ Save is a digital platform that financially empowers saving groups.
 | /auth/login                  | POST   |
 | /auth/logout                 | POST   |
 | /auth/signup                 | POST   |
-<!-- | /auth/signup/send_short_code | POST   |
-| /auth/reset_password/token   | POST   | -->
-| /auth/reset_password         | POST   |
-<!-- | /auth/ssa/reset_password     | POST   | -->
 | /auth/change_password        | POST   |
-<!-- | /auth/sa/reset_password      | POST   |
+| /auth/reset_password         | POST   |
+<!-- | /auth/signup/send_short_code | POST   |
+| /auth/reset_password/token   | POST   |
+| /auth/ssa/reset_password     | POST   |
+| /auth/sa/reset_password      | POST   |
 | /auth/refresh_token          | POST   | -->
 
 # Technologies Used :gear:
