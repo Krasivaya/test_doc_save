@@ -49,13 +49,13 @@ Save is a digital platform that financially empowers saving groups.
 
 ### User
 
-| Endpoint              | Method | Endpoint |
-| --------------------- | ------ | -------- |
-| /auth/login           | POST   |          |
-| /auth/logout          | POST   |          |
-| /auth/signup          | POST   |          |
-| /auth/change_password | POST   |          |
-| /auth/reset_password  | POST   |          |
+| Endpoint    | Method | Description                            |
+| ----------- | ------ | -------------------------------------- |
+| /users      | POST   | User can be/create a group admin       |
+| /users      | GET    | User can retrieve group admins         |
+| /users/{id} | GET    | User can retrieve a single group admin |
+| /users/{id} | PUT    | User can update group admin            |
+| /users/{id} | DELETE | User can delete a group admin          |
 
 # Technologies Used :gear:
 
