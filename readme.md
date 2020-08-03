@@ -31,13 +31,12 @@ Save is a digital platform that financially empowers saving groups.
 
 ### Auth
 
-| Endpoint              | Method |
-| --------------------- | ------ |
-| /auth/login           | POST   |
-| /auth/logout          | POST   |
-| /auth/signup          | POST   |
-| /auth/change_password | POST   |
-| /auth/reset_password  | POST   |
+| Endpoint              | Method | Description                      |
+| --------------------- | ------ | -------------------------------- |
+| /auth/signup          | POST   | User can create an account       |
+| /auth/login           | POST   | User can sign in the account     |
+| /auth/logout          | POST   | User can sign out of the account |
+| /auth/change_password | POST   | User can change the password     |
 
 <!--
 | /auth/signup/send_short_code | POST   |
