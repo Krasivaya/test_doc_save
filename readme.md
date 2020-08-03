@@ -22,7 +22,7 @@ Save is a digital platform that financially empowers saving groups.
 6. [x] A group can make funds
 7. [x] A group can view its wallet balance
 8. [x] A group can make withdrawals
-9. [x]A group member takes saving fines
+9. [x] A group member takes saving fines
 10. [x] A group member takes fund fines
 11. [x] A group member takes attendance delays fines
 12. [x] A group member takes meeting absence fines
