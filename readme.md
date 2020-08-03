@@ -30,7 +30,7 @@ No known bugs. If you find any, please reach out.
 
 Thanks goes to these wonderful people
 
-| Contributor Image                                                                                              | Contributor Name                                        |
+| Avatar                                                                                                         | Contributor Name                                        |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | <img src="https://gitlab.com/uploads/-/system/user/avatar/4040261/avatar.png?width=400" width="50px">          | [Olivier M. Esuka](https://gitlab.com/oesukam)          |
 | <img src="https://gitlab.com/uploads/-/system/user/avatar/4968818/avatar.png?width=400" width="50px">          | [Joel Atiamutu](https://gitlab.com/joelatiam)           |
