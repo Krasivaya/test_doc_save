@@ -2,6 +2,8 @@
 
 Save is a digital platform that financially empowers saving groups.
 
+ARISTOTE
+
 # Table of Contents 📑
 
 - [Features](#features-rocket)
