@@ -50,7 +50,7 @@ Save is a digital platform that financially empowers saving groups.
 ### Group
 
 | Endpoint                                 | Method |   Description                      |
-| ----------------------------------------   -------  ---------------------------------- |
+| ---------------------------------------- | -------|  ----------------------------------|
 | /groups                                  | POST   | Create a new group                 |
 | /groups/{group_id}/invites               | POST   | Invite a member to the group       |
 | /groups/{group_id}/invites/{invite_id}/  | PUT    | accept an invitation of a group    |
