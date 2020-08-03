@@ -1,4 +1,4 @@
-# SAVE 💻
+# SAVE 💻📱📟
 
 Save is a digital platform that financially empowers saving groups.
 
@@ -28,7 +28,7 @@ No known bugs. If you find any, please reach out.
 
 # Contributors :two_men_holding_hands:
 
-Thanks goes to these wonderful people
+Special thanks goes to these wonderful people
 
 | Avatar                                                                                                         | Contributor Name                                        |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
