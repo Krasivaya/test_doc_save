@@ -16,6 +16,12 @@ Save is a digital platform that financially empowers saving groups.
 
 # Technologies Used :gear:
 
+| Backend-API          |
+| -------------------- |
+| Node                 |
+| Express              |
+| Postgres Boiterplate |
+
 # Bugs :bug:
 
 # Contributors :two_men_holding_hands:
