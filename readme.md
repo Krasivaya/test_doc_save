@@ -12,8 +12,20 @@ Save is a digital platform that financially empowers saving groups.
 
 # Features :rocket:
 
-1. [x] User can sign up.
-2. [x] User can sign in.
+### As a user:
+
+1. [x] User can create an acoount.
+2. [x] User can sign in into the account.
+3. [x] User can make savings
+4. [x] User can view savings balance
+5. [x] User can make loans
+6. [x] User can view loan balance
+7. [x] User can make a group
+8. [x] User can invite others to join group
+9. [x] User can make a project 
+10. [x] User can become an agent
+11. [x] User can create an organisation
+
 
 # API Endpoints :droplet:
 
@@ -26,11 +38,13 @@ Save is a digital platform that financially empowers saving groups.
 | /auth/signup                 | POST   |
 | /auth/change_password        | POST   |
 | /auth/reset_password         | POST   |
-<!-- | /auth/signup/send_short_code | POST   |
+<!-- 
+| /auth/signup/send_short_code | POST   |
 | /auth/reset_password/token   | POST   |
 | /auth/ssa/reset_password     | POST   |
 | /auth/sa/reset_password      | POST   |
-| /auth/refresh_token          | POST   | -->
+| /auth/refresh_token          | POST   | 
+-->
 
 # Technologies Used :gear:
 
