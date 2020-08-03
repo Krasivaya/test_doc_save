@@ -7,6 +7,7 @@ Save is a digital platform that financially empowers saving groups.
 - [Features](#features-rocket)
 - [API Endpoints](#api-endpoints-droplet)
 - [Technologies Used](#technologies-used-gear)
+- [Accessibility](#accessibility)
 - [Bugs](#bugs-bug)
 - [Contributors](#contributors-two_men_holding_hands)
 
