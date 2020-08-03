@@ -12,8 +12,29 @@ Save is a digital platform that financially empowers saving groups.
 
 # Features :rocket:
 
-1. [x] User can sign up.
-2. [x] User can sign in.
+#### User:
+1. User can create an account
+2. User can login to the account
+3. User can create a project
+4. User can delete a project
+5. User can create a group
+6. User can delete a group
+7. User can update a group
+8. User can create an organisation
+9. User can update/delete an organisation
+10. User can view his/her savings balance
+11. User can make loans
+12. User can view loans balance
+13. User can make funds
+14. User can create a project
+15. User can delete a project
+16. User can create a group
+17. User can update/delete a group
+18. User can invite others to join group
+19. User can update a group
+20. User can create an organisation
+21. Use can update/delete an organisation
+22. User can become an agent
 
 # API Endpoints :droplet:
 
