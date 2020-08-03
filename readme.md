@@ -1,4 +1,4 @@
-# SAVE 💻📱📟
+# SAVE
 
 Save is a digital platform that financially empowers saving groups.
 
@@ -22,35 +22,53 @@ Save is a digital platform that financially empowers saving groups.
 6. [x] User can view loan balance
 7. [x] User can make a group
 8. [x] User can invite others to join group
-9. [x] User can make a project 
+9. [x] User can make a project
 10. [x] User can become an agent
 11. [x] User can create an organisation
-
 
 # API Endpoints :droplet:
 
 ### Auth
 
-| Endpoint                     | Method |
-| ---------------------------- | ------ |
-| /auth/login                  | POST   |
-| /auth/logout                 | POST   |
-| /auth/signup                 | POST   |
-| /auth/change_password        | POST   |
-| /auth/reset_password         | POST   |
-<!-- 
+| Endpoint              | Method |
+| --------------------- | ------ |
+| /auth/login           | POST   |
+| /auth/logout          | POST   |
+| /auth/signup          | POST   |
+| /auth/change_password | POST   |
+| /auth/reset_password  | POST   |
+
+<!--
 | /auth/signup/send_short_code | POST   |
 | /auth/reset_password/token   | POST   |
 | /auth/ssa/reset_password     | POST   |
 | /auth/sa/reset_password      | POST   |
-| /auth/refresh_token          | POST   | 
+| /auth/refresh_token          | POST   |
 -->
+
+### User
+
+| Endpoint              | Method | Endpoint |
+| --------------------- | ------ | -------- |
+| /auth/login           | POST   |          |
+| /auth/logout          | POST   |          |
+| /auth/signup          | POST   |          |
+| /auth/change_password | POST   |          |
+| /auth/reset_password  | POST   |          |
 
 # Technologies Used :gear:
 
 - Nodejs / Express
 - Express
 - Postgres Boiterplate
+
+# Accessibility
+
+| Nº  | Components                | Avatar |
+| --- | ------------------------- | ------ |
+| 1   | Mobile App(Android / IOS) | 📱     |
+| 2   | Mobile USAID              | 📟     |
+| 3   | Web App                   | 💻     |
 
 # Bugs :bug:
 
