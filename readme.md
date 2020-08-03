@@ -4,15 +4,15 @@ Save is a digital platform that financially empowers saving groups.
 
 # Table of Contents :eventOrganizing:
 
-- [Features](#features)
-- [API Endpoints](#api-endpoints)
+- [Features](#features-rocket)
+- [API Endpoints](#api-endpoints-droplet)
 - [Technologies Used](#technologies-used-gear)
-- [Bugs](#bugs)
+- [Bugs](#bugs-bug)
 - [Contributors](#contributors-two_men_holding_hands)
 
-# Features :fundingFinding:
+# Features :rocket:
 
-# API Endpoints :plugin:
+# API Endpoints :droplet:
 
 # Technologies Used :gear:
 
