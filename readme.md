@@ -67,7 +67,7 @@ Save is a digital platform that financially empowers saving groups.
 | Nº  | Components                | Avatar |
 | --- | ------------------------- | ------ |
 | 1   | Mobile App(Android / IOS) | 📱     |
-| 2   | Mobile USAID              | 📟     |
+| 2   | Mobile USSD               | 📟     |
 | 3   | Web App                   | 💻     |
 
 # Bugs :bug:
