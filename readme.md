@@ -1,5 +1,4 @@
-# SAVE [! [API](https://img.shields.io/badge/API-V3-blue)]
+# SAVE 💻
 
-[![Build Status](https://travis-ci.org/nignanthomas/wayfarer.svg?branch=develop)]
-
-A digital platform that financially empowers saving groups
+https://img.shields.io/badge/API-V3-blue
+Save is a digital platform that financially empowers saving groups.
