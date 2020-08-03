@@ -1,12 +1,5 @@
 # SAVE
 
-
-   _____ ___ _    ________
-  / ___//   | |  / / ____/
-  \__ \/ /| | | / / __/   
- ___/ / ___ | |/ / /___ _ 
-/____/_/  |_|___/_____/(_)
-
 Save is a digital platform that financially empowers saving groups.
 
 # Table of Contents 📑
