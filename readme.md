@@ -12,10 +12,10 @@ Save is a digital platform that financially empowers saving groups.
 
 # Features :rocket:
 
-### As a user:
+### User:
 
 1. [x] User can create an acoount.
-2. [x] User can sign in into the account.
+2. [x] User can sign in the account.
 3. [x] User can make savings
 4. [x] User can view savings balance
 5. [x] User can make loans
