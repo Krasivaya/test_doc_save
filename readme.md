@@ -1,4 +1,4 @@
-# SAVE 💻
+# SAVE :code:
 
 Save is a digital platform that financially empowers saving groups.
 
@@ -6,16 +6,16 @@ Save is a digital platform that financially empowers saving groups.
 
 - [Features](#features)
 - [API Endpoints](#api-endpoints)
-- [Technologies Used](#technologies-used)
-- [Bugs](#bug)
+- [Technologies Used](#technologies-used-gear)
+- [Bugs](#bugs)
 - [Contributors](#contributors-two_men_holding_hands)
 
 # Features :fundingFinding:
 
 # API Endpoints :plugin:
 
-# Technologies Used :tool:
+# Technologies Used :gear:
 
-# Bugs 🐛
+# Bugs :bug:
 
 # Contributors :two_men_holding_hands:
