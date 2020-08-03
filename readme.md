@@ -27,6 +27,24 @@ Save is a digital platform that financially empowers saving groups.
 10. [x] User can become an agent
 11. [x] User can create an organisation
 
+
+### Group:
+
+1. [x] A group belongs to an organisation
+2. [x] A group belongs to a project
+3. [x] A group has cycles
+4. [x] A group can make savings
+5. [x] A group can make loans
+6. [x] A group can make funds
+7. [x] A group can view its wallet balance
+8. [x] A group can make withdrawals
+9. [x] A group member takes saving fines
+10. [x] A group member takes fund fines
+11. [x] A group member takes attendance delays fines
+12. [x] A group member takes meeting absence fines
+13. [x] Group admin can update/delete a group
+
+
 # API Endpoints :droplet:
 
 ### Auth
@@ -38,14 +56,6 @@ Save is a digital platform that financially empowers saving groups.
 | /auth/logout          | POST   | User can sign out of the account |
 | /auth/change_password | POST   | User can change the password     |
 
-<!--
-| /auth/signup/send_short_code | POST   |
-| /auth/reset_password/token   | POST   |
-| /auth/ssa/reset_password     | POST   |
-| /auth/sa/reset_password      | POST   |
-| /auth/refresh_token          | POST   |
--->
-
 ### User
 
 | Endpoint    | Method | Description                            |
@@ -55,6 +65,19 @@ Save is a digital platform that financially empowers saving groups.
 | /users/{id} | GET    | User can retrieve a single group admin |
 | /users/{id} | PUT    | User can update group admin            |
 | /users/{id} | DELETE | User can delete a group admin          |
+
+
+### Group
+
+| Endpoint                                 | Method |   Description                      |
+| ---------------------------------------- | -------|  ----------------------------------|
+| /groups                                  | POST   | Create a new group                 |
+| /groups/{group_id}/invites               | POST   | Invite a member to the group       |
+| /groups/{group_id}/invites/{invite_id}/  | PUT    | accept an invitation of a group    |
+| /groups/{id}/balance                     | GET    | Get my group saving balances       |
+| /groups/{id}/requests                    | GET    | Create Requests for a group        |
+| /groups/{group_id}/leave                 | DELETE | Leave a group                      |
+
 
 # Technologies Used :gear:
 
