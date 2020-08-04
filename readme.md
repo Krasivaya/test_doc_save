@@ -6,6 +6,7 @@ Save is a digital platform that financially empowers saving groups.
 
 - [Features](#features-rocket)
 - [API Endpoints](#api-endpoints-droplet)
+- [Prerequisites](#prerequisites-wrench)
 - [Technologies Used](#technologies-used-gear)
 - [Accessibility](#accessibility-globe_with_meridians)
 - [Bugs](#bugs-bug)
@@ -78,6 +79,12 @@ Save is a digital platform that financially empowers saving groups.
 | /groups/{id}/requests                    | GET    | Create Requests for a group        |
 | /groups/{group_id}/leave                 | DELETE | Leave a group                      |
 
+# Prerequisites :wrench:
+
+- Clone this project with `git clone https://gitlab.com/DreamStartLabs/save/save-api-v3.git`
+- Head to project directory with `cd save-api-v3`
+- Install project dependencies with `npm install`
+- Launch the server with `npm start`
 
 # Technologies Used :gear:
 
